@@ -6,5 +6,6 @@ https://nifann.ephmi.com
 This repo contains some files for developers in order to use the API. 
 
 
->*Note* Feel free to join us if you have any worries.
-> > > Eph &amp; Mi
+Feel free to join us if you have any worries
+
+             Eph & Mi
